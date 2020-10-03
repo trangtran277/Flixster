@@ -2,4 +2,5 @@
     <string name="app_name">Flixster</string>
     <string name="sample_title">It chapter two</string>
     <string name="some_sample_data_for_overview">Some sample data for overview</string>
+    <string name="movie_poster_description">Movie poster</string>
 </resources>
